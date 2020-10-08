@@ -1,0 +1,30 @@
+# This is a list of blocklists I prefer to use with pfBlockerNG Ad Guard Home, PiHole, etc.   ** Note these lists are maintained by other people.
+#
+# Date: 08 October 2020 14:11:00 (UTC)
+# Fetch the latest version of this file: https://raw.githubusercontent.com/logicaltechMD/Blocklists/main/MyCustomBlockList.txt
+# Project home page: https://github.com/logicaltechMD/Blocklists/new/main
+# ===============================================================
+
+## Block Unifi devices from phoning home
+
+AdCircumvention https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+AdGuardSimplifiedDomainNamesfilter  https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+AdobeTraffic  https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Adobe/adobeblocklist.txt
+
+dbloisdnl     https://dbl.oisd.nl/
+
+FacebookAll   https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
+
+logicalTechMDBlockList  https://raw.githubusercontent.com/logicaltechMD/Blocklists/main/MyCustomBlockList.txt
+
+MobileAppAdsTraffic   https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/MobileAppAds/appadsblocklist.txt
+
+TrackingDomains   https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Tracking/trackingblocklist.txt
+
+TwitterAll    https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/twitter/all
+
+WindowsTelemetry  https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Windows/windowstelemetryblocklist.txt
+
+YoutubeAdds   https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Youtube/youtubeblocklist.txt

@@ -1,7 +1,7 @@
 # This blocklist blocks things I want blocked
 #
 # Date: 08 October 2020 13:11:00 (UTC)
-# Fetch the latest version of this file: https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Adobe/adobeblocklist.txt
+# Fetch the latest version of this file: https://raw.githubusercontent.com/logicaltechMD/Blocklists/main/MyCustomBlockList.txt
 # Project home page: https://github.com/logicaltechMD/Blocklists/new/main
 # ===============================================================
 

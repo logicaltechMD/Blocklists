@@ -10,3 +10,7 @@
 ping.ubnt.com
 ping.ui.com
 trace.svc.ui.com
+
+# Block Apple Reporting every application that opens
+ocsp.apple.com
+
